@@ -1,5 +1,5 @@
 def main():
-    # Ask how many students are in the class
+    # Ask how many students are in the class 
     student_count = int(input("How many students to enter? "))
 
     # Lists to store data
